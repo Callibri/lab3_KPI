@@ -1,6 +1,6 @@
-# Лабораторна робота 3. CQS
+﻿# Лабораторна робота 3. CQS
 
-![tests](https://github.com/Callibri/lab3/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Callibri/lab3_KPI/actions/workflows/tests.yml/badge.svg)
 
 Рефакторинг лабораторної 2: операції запису оформлені як команди з обробниками, операції читання як запити з обробниками та моделями читання.
 
